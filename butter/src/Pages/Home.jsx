@@ -91,22 +91,34 @@ function Home(){
             <Box>
                 <ButtonGroup gap="1">
                     <Button w="13vw" borderRadius="4px" colorScheme="blackAlpha" variant="outline" >
-                        <Text color="black" >BABY GIRL</Text>  
+                        <NavLink to="/baby" >
+                            <Text color="black" >BABY GIRL</Text>  
+                        </NavLink>
                     </Button>
                     <Button w="13vw" borderRadius="4px" colorScheme="blackAlpha" variant="outline" >
+                    <NavLink to="/baby" >
                         <Text color="black" >BABY BOY</Text>  
+                    </NavLink>
                     </Button>
                     <Button w="13vw" borderRadius="4px" colorScheme="blackAlpha" variant="outline" >
+                    <NavLink to="/todler" >
                         <Text color="black" >TODLER GIRL</Text>  
+                    </NavLink>
                     </Button>
                     <Button w="13vw" borderRadius="4px" colorScheme="blackAlpha" variant="outline" >
+                    <NavLink to="/todler" >
                         <Text color="black" >TODLER BOY</Text>  
+                    </NavLink>
                     </Button>
                     <Button w="13vw" borderRadius="4px" colorScheme="blackAlpha" variant="outline" >
+                    <NavLink to="/kids">
                         <Text color="black" >KID GIRL</Text>  
+                    </NavLink>
                     </Button>
                     <Button w="13vw" borderRadius="4px" colorScheme="blackAlpha" variant="outline" >
+                    <NavLink to="/kids" >
                         <Text color="black" >KID BOY</Text>  
+                    </NavLink>
                     </Button>
                 </ButtonGroup>
             </Box>

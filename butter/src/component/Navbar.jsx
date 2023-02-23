@@ -1,4 +1,4 @@
-import {Flex,Box,Spacer,ButtonGroup,Button,Heading, Avatar,Text, Input, HStack,InputRightElement , IconButton, InputGroup } from "@chakra-ui/react"
+import {Flex,Box,Spacer, Avatar,Text, Input, HStack,InputRightElement , IconButton, InputGroup } from "@chakra-ui/react"
 import babybags from "./babybags.png"
 import SearchOutlinedIcon from '@mui/icons-material/SearchOutlined';
 import {Link as NavLink} from "react-router-dom"
@@ -18,30 +18,30 @@ function NavBar(){
                 </Box>
                 <Spacer />
                 <Flex gap="5vw">
-                    <Box cursor="pointer">
+                    <Box cursor="pointer" _hover={{border:"4px solid grey"}}>
                         <NavLink to="/baby" >
                             <Text fontSize="lg">Baby</Text>
                             <Text fontSize='xs'>PREEMIE-24M</Text>
                         </NavLink>
                     </Box>
-                    <Box cursor="pointer">
+                    <Box cursor="pointer" _hover={{border:"4px solid grey"}}>
                         <NavLink to="/todler" >
                             <Text fontSize="lg">Toddler</Text>
                             <Text fontSize='xs'>2T-5T</Text>
                         </NavLink>
                     </Box>
-                    <Box cursor="pointer">
+                    <Box cursor="pointer" _hover={{border:"4px solid grey"}}>
                         <NavLink to="/kids" >
                             <Text fontSize="lg">Kids</Text>
                             <Text fontSize='xs'>4-14</Text>
                         </NavLink>
                     </Box>
-                    <Box cursor="pointer">
+                    <Box cursor="pointer" _hover={{border:"4px solid grey"}}>
                         <NavLink to="/newpopular" >
                             <Text fontSize="lg">New & Popular</Text>
                         </NavLink>
                     </Box>
-                    <Box cursor="pointer">
+                    <Box cursor="pointer" _hover={{border:"4px solid grey"}}>
                         <NavLink to="/hilaryduff" >
                             <Text fontSize="lg">Hilary Duff x Carter's</Text>
                         </NavLink>

@@ -8,7 +8,9 @@
       "price_2" : 18.00,
       "color" : "Heather/Pink",
       "description" : "Designed with a stretchy and easy on waistband, these colorful leggings are perfect for your active girl.",
-      "features" : " Covered elastic waistband for a comfy fit . Lots of stretch"
+      "features1" : "Covered elastic waistband for a comfy fit ",
+      "features2": "Back bow design",
+      "features3": "Lots of stretch"
     },
     {
       "id":2,
@@ -18,7 +20,9 @@
       "price_2" : 16.00,
       "color":"Heather",
       "description":"Perfect for your wee little one, this bodysuit was made for your lucky one.",
-      "features": "Short sleeves .Ribbed neckline and leg openings .Strong snaps keep up with wear, wash, repeat"
+      "features1": "Short sleeves",
+      "features2":"Ribbed neckline and leg openings",
+      "features3":"Strong snaps keep up with wear, wash, repeat"
     },
     {
       "id":3,
@@ -28,7 +32,9 @@
       "price_2": 18.00,
       "color" : " Green",
       "description": "Designed to be all day comfort from sleeping to playing, this cuddly and super soft 1-piece is perfect for playtime, tummy time or anytime!",
-      "features": "Zips from ankle to chin .Safety tabs protect little chins .Ribbed cuffs and neckline .Built-in footies, no grippers"
+      "features1": "Zips from ankle to chin|Ribbed cuffs and neckline",
+      "features2":"Safety tabs protect little chins",
+      "features3":"Built-in footies, no grippers"
     },
     {
       "id":4,
@@ -38,7 +44,9 @@
       "price_2":20.00,
       "color": " Green",
       "description": "Crafted in soft cotton, these PJs get him ready for bed in one easy zip! Carter's cotton PJs are not flame resistant. But don't worry! They're designed with a snug and stretchy fit for safety and comfort.",
-      "features": "Zip-front design .Cuddle tab to protect little chins .Ribbed cuffs and neckline .Built-in footies with elasticized backs"
+      "features1": "Zip-front design|Ribbed cuffs and neckline",
+      "features2":"Cuddle tab to protect little chins",
+      "features3":"Built-in footies with elasticized backs"
     },
     {
       "id":5,
@@ -48,7 +56,10 @@
       "price_2":20.00,
       "color":" Green",
       "description": "Crafted in soft cotton, this PJ set has your little one ready for bed in no time. Carter's cotton PJs are not flame resistant. But don't worry! They're designed with a snug and stretchy fit for safety and comfort.",
-      "features":"2-piece set .Long sleeves"
+      "features1":"2-piece set",
+      "features2":"Long sleeves",
+      "features3":"Button-front design"
+
     },
     {
       "id":6,
@@ -58,7 +69,9 @@
       "price_2":22.00,
       "color":" Green",
       "description":"Crafted in soft cotton and made to match, this festive set is perfect for your lucky little one.",
-      "features": "2-piece set .Long sleeves"
+      "features1": "2-piece set",
+      "features2":"Long sleeves",
+      "features3":"Button-front design"
     },
     {
       "id":7,
@@ -68,7 +81,9 @@
       "price_2": 26.00,
       "color":" Green",
       "description":"Crafted in lightweight jersey with a festive print, this dress and matching headwrap are perfect for your lucky little girl.",
-      "features":"Long sleeves with flutter shoulders .Back button closure"
+      "features1":"Long sleeves with flutter shoulders",
+      "features2":"Back button closure",
+      "features3":"Lots of stretch"
     },
     {
       "id":8,
@@ -78,7 +93,9 @@
       "price_2": 38.00,
       "color":"Multi",
       "description":"Crafted in soft cotton with three pieces in one, this set is perfect for mixing and matching or wearing as one handsome look.",
-      "features":"3-piece set .Short sleeves .Button-front design"
+      "features1":"3-piece set",
+      "features2":"Short sleeves",
+      "features3":"Button-front design"
     },
     {
       "id":9,
@@ -88,7 +105,9 @@
       "price_2": 22.00,
       "color": "Grey",
       "description":"Perfect for your festive little bunny, this matching PJ set makes bedtime easy! Carter's cotton PJs are not flame resistant. But don't worry! They're designed with a snug and stretchy fit for safety and comfort.Cotton pjs are not flame resistant. To help keep children safe, cotton pjs should always fit snugly.",
-      "features":"Zips from ankle to chin .Cuddle tab to protect little chins up to size 5T"
+      "features1":"Zips from ankle to chin",
+      "features2":"Cuddle tab to protect little chins up to size 5T",
+      "features3":"Built-in footies, no grippers"
     },
     {
       "id":10,
@@ -98,7 +117,9 @@
       "price_2":22.00,
       "color": "Multi",
       "description":"Crafted in soft cotton, this set is complete with a long-sleeve bodysuit to pair with easy on, coordinating pants.100% cotton lightweight jersey",
-      "features":"2-piece set .Long sleeves with flutter shoulders"
+      "features1":"2-piece set",
+      "features2":"Long sleeves with flutter shoulders",
+      "features3":"Strong snaps keep up with wear, wash, repeat"
     },
     {
       "id":11,
@@ -108,7 +129,9 @@
       "price_2":22.00,
       "color":"Grey",
       "description":"Crafted in soft cotton jersey with two in one set, this bodysuit pant outfit is perfect for baby.",
-      "features":"2-piece set .Long sleeves"
+      "features1":"2-piece set",
+      "features2":"Long sleeves",
+      "features3":"Button-front design"
     },
     {
       "id":12,
@@ -118,7 +141,9 @@
       "price":9.00,
       "price_2":22.00,
       "description":"Made to match, this set is complete with a long, layered look bodysuit and a pair of pull-on pants.Strong snaps keep up with wear, wash, repeat",
-      "features":"2-piece set .Long, layered sleeves"
+      "features1":"2-piece set",
+      "features2":"Long, layered sleeves",
+      "features3":"Built-in footies, no grippers"
     },
     {
       "id":13,
@@ -128,7 +153,9 @@
       "price":9.00,
       "price_2":18.00,
       "description":"Designed to be all day comfort from sleeping to playing, this cuddly and super soft 1-piece is perfect for playtime, tummy time or anytime! Plus, with an inverted zipper, baby's arms and tummy stay warm during diaper changes.",
-      "features":"2-way zip design to keep baby warm and snuggly during diaper changes .Safety tab to protect little chins"
+      "features1":"2-way zip design to keep baby warm and snuggly during diaper changes",
+      "features2":"Safety tab to protect little chins",
+      "features3":"Lots of stretch"
     },
     {
       "id":14,
@@ -138,7 +165,9 @@
       "price":9.00,
       "price_2":18.00,
       "description":"Designed to be all day comfort from sleeping to playing, this cuddly and super soft 1-piece is perfect for playtime, tummy time or anytime! Plus, with an inverted zipper, baby's arms and tummy stay warm during diaper changes.",
-      "features":"2-way zip design to keep baby warm and snuggly during diaper changes .Safety tab to protect little chins"
+      "features1":"2-way zip design to keep baby warm and snuggly during diaper changes",
+      "features2":"Safety tab to protect little chins",
+      "features3":"Built-in footies, no grippers"
     },
     {
       "id":15,
@@ -148,7 +177,9 @@
       "price":6.00,
       "price_2":14.00,
       "description":"With an easy-on design, these soft cotton pants get him dressed in no time.",
-      "features":"Covered elastic waistband for a comfy fit .2x2 ribbed waistband"
+      "features1":"Covered elastic waistband for a comfy fit",
+      "features2":"2x2 ribbed waistband",
+      "features3":"Built-in footies, no grippers"
     },
     {
       "id":16,
@@ -158,7 +189,9 @@
       "price":12.00,
       "price_2":20.00,
       "description":"Crafted in soft cotton with a cute print, this 1-piece gets him ready for bed in one easy zip! Carter's cotton PJs are not flame resistant. But don't worry! They're designed with a snug and stretchy fit for safety and comfort.",
-      "features":"Zips from ankle to chin .Cuddle tab to protect little chins up to size 5T"
+      "features1":"Zips from ankle to chin",
+      "features2":"Cuddle tab to protect little chins up to size 5T",
+      "features3":"Button-front design"
     },
     {
       "id":17,
@@ -168,7 +201,9 @@
       "price":14.00,
       "price_2":32.00,
       "description":"Crafted in super soft doubleknit, this vest pairs with a long-sleeve bodysuit and a pair of easy-on knit denim pants.",
-      "features":"3-piece set .Zip-front design"
+      "features1":"3-piece set",
+      "features2":"Zip-front design",
+      "features3":"Built-in footies with elasticized backs"
     },
     {
       "id":18,
@@ -178,7 +213,9 @@
       "price":12.00,
       "price_2":20.00,
       "description":"Crafted in silky soft jersey, these cute jammies get your little one ready for bed in one easy zip! Carter's polyester is flame resistant without any chemical treatment.",
-      "features":"Zips from ankle to chin .Cuddle tab to protect little chins up to size 5T"
+      "features1":"Zips from ankle to chin",
+      "features2":"Cuddle tab to protect little chins up to size 5T",
+      "features3":"Built-in footies with elasticized backs"
     },
     {
       "id":19,
@@ -188,7 +225,9 @@
       "price":9.00,
       "price_2":16.90,
       "description":"Designed to be all day comfort from sleeping to playing, this cuddly and super soft 1-piece is perfect for playtime, tummy time or anytime! Plus, with an inverted zipper, baby's arms and tummy stay warm during diaper changes.",
-      "features":"2-way zip design to keep baby warm and snuggly during diaper changes .Safety tab to protect little chins"
+      "features1":"2-way zip design to keep baby warm and snuggly during diaper changes",
+      "features2":"Safety tab to protect little chins",
+      "features3":"Zip-front design"
     },
     {
       "id":20,
@@ -197,7 +236,9 @@
       "color":"Spring Moss Green",
       "price":22.95,
       "description":"How sweet will baby look in this shortall?! Made for daily adventures in tummy time, play with Mama and beyond, it has thoughtful details like side pockets and a cuffed hem, and is made of super soft gauze. Plus, the stylish and trendy design adds extra depth to this look. Crafted in the purest organic fabrics and sustainable materials, Little Planet is a return to simplicity. Thoughtful essentials and timeless pieces to gift or to hold on to.",
-      "features":" Covered elastic waistband for a comfy fit . Lots of stretch"
+      "features1":"Covered elastic waistband for a comfy fit",
+      "features2":"Lots of stretch",
+      "features3":"Built-in footies, no grippers"
     }
   ],
   "toddler":[
@@ -209,7 +250,9 @@
       "price":7.00,
       "price_2":14.00,
       "description":"Designed with a stretchy and easy on waistband, these colorful leggings are perfect for your active girl.",
-      "features":"Covered elastic waistband for a comfy fit. Lots of stretch"
+      "features1":"Covered elastic waistband for a comfy fit",
+      "features2":"Lots of stretch",
+      "features3":"Button-front design"
     },
     {
       "id":2,
@@ -219,7 +262,9 @@
       "price":10.00,
       "price_2":20.00,
       "description":"Crafted in soft cotton, these PJs get him ready for bed in one easy zip! Carter's cotton PJs are not flame resistant. But don't worry! They're designed with a snug and stretchy fit for safety and comfort.",
-      "features":"Zip-front design. Cuddle tab to protect little chins"
+      "features1":"Zip-front design",
+      "features2":"Cuddle tab to protect little chins",
+      "features3":"Built-in footies with elasticized backs"
     },
     {
       "id":3,
@@ -229,7 +274,9 @@
       "price":11.00,
       "price_2":18.00,
       "description":"Perfect for Easter, this tee was made for your festive little one.",
-      "features":"Short sleeves .Ribbed neckline"
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Built-in footies, no grippers"
     },
     {
       "id":4,
@@ -239,7 +286,9 @@
       "price":14.00,
       "price_2":22.00,
       "description":"Perfect for your festive little bunny, this matching PJ set makes bedtime easy! Carter's cotton PJs are not flame resistant. But don't worry! They're designed with a snug and stretchy fit for safety and comfort.",
-      "features":"2-piece set. Long sleeves"
+      "features1":"2-piece set",
+      "features2":"Long sleeves",
+      "features3":"Zip-front design"
     },
     {
       "id":5,
@@ -249,7 +298,9 @@
       "price":12.00,
       "price_2":20.00,
       "description":"Handsome and super soft, this striped henley is perfect for him.",
-      "features":"Short sleeves. Ribbed collar"
+      "features1":"Short sleeves",
+      "features2":"Ribbed collar",
+      "features3":"Lots of stretch"
     },
     {
       "id":6,
@@ -259,7 +310,9 @@
       "price":21.00,
       "price_2":34.00,
       "description":"Made to match, this set is complete with a floral top to pair with easy-on stretch leggings.",
-      "features":"2-piece set.Short sleeves.Back button closure"
+      "features1":"2-piece set",
+      "features2":"Short sleeves",
+      "features3":"Back button closure"
     },
     {
       "id":7,
@@ -269,7 +322,9 @@
       "price":21.00,
       "price_2":34.00,
       "description":"Crafted in lightweight jersey, this set is complete with a cute short-sleeve tee and a skort with shorts underneath so she's cartwheel-ready!",
-      "features":"2-piece set.Short sleeves.Back bow design"
+      "features1":"2-piece set",
+      "features2":"Short sleeves",
+      "features3":"Back bow design"
     },
     {
       "id":8,
@@ -279,7 +334,9 @@
       "price":21.00,
       "price_2":34.00,
       "description":"She's ready to play in this oh-so-sweet 2-piece shorts set from Carter's. The babydoll tee features ruffles on the sleeves and decorative buttons on the chest. Pair this effortlessly with the matching shorts to create an adorable style for days on the go.",
-      "features":"2-piece playwear set. Includes babydoll top and shorts"
+      "features1":"2-piece playwear set",
+      "features2":"Includes babydoll top and shorts",
+      "features3":"Back bow design"
     },
     {
       "id":9,
@@ -289,7 +346,9 @@
       "price":17.00,
       "price_2":34.00,
       "description":"Crafted in lightweight jersey, this tie-front tee pairs with coordinating leggings for a super cute look.",
-      "features":"2-piece set.Short sleeves.Ribbed neckline"
+      "features1":"2-piece set",
+      "features2":"Short sleeves",
+      "features3":"Ribbed neckline"
     },
     {
       "id":10,
@@ -299,7 +358,9 @@
       "price":21.00,
       "price_2":44.00,
       "description":"Made to match, this set is complete with a plaid top and a pair of easy on stretch leggings.",
-      "features":"2-piece set.Flutter sleeves.Back button closure"
+      "features1":"2-piece set",
+      "features2":"Flutter sleeves",
+      "features3":"Back button closure"
     },
     {
       "id":11,
@@ -309,7 +370,9 @@
       "price":6.00,
       "price_2":12.00,
       "description":"Crafted in lightweight jersey with a cool print, this tee is perfect for him.",
-      "features":"Short sleeves.Ribbed neckline"
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Back button closure"
     },
     {
       "id":12,
@@ -319,7 +382,9 @@
       "price":7.00,
       "price_2":10.00,
       "description":"Crafted in lightweight jersey with a cool print, this tee is perfect for him.",
-      "features":"Short sleeves.Ribbed neckline"
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Built-in footies with elasticized backs"
     },
     {
       "id":13,
@@ -329,7 +394,9 @@
       "price":6.00,
       "price_2":12.00,
       "description":"Crafted in lightweight jersey with a cute print, this tee is perfect for him.",
-      "features":"Short sleeves.Ribbed neckline"
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Ribbed neckline"
     },
     {
       "id":14,
@@ -339,7 +406,9 @@
       "price":6.00,
       "price_2":12.00,
       "description":"Crafted in lightweight jersey with a cool slogan, this tee is perfect for him.",
-      "features":"Short sleeves.Ribbed neckline"
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Built-in footies, no grippers"
     },
     {
       "id":15,
@@ -349,7 +418,9 @@
       "price":6.00,
       "price_2":12.00,
       "description":"Crafted in lightweight jersey with a cool slogan, this tee is perfect for him.",
-      "features":"Short sleeves.Ribbed neckline"
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Built-in footies with elasticized backs"
     },
     {
       "id":16,
@@ -359,7 +430,9 @@
       "price":6.00,
       "price_2":12.00,
       "description":"Crafted in lightweight jersey with a cool slogan, this tee is perfect for him.",
-      "features":"Short sleeves.Ribbed neckline"
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Back button closure"
     },
     {
       "id":17,
@@ -369,7 +442,9 @@
       "price":7.00,
       "price_2":12.00,
       "description":"Crafted in lightweight jersey with a cool slogan, this tee is perfect for him.",
-      "features":"Short sleeves.Ribbed neckline"
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Strong snaps keep up with wear, wash, repeat"
     },
     {
       "id":18,
@@ -379,7 +454,395 @@
       "price":21.00,
       "price_2":34.00,
       "description":"Crafted in lightweight jersey with a cool slogan, this tee is perfect for him.",
-      "features":"Short sleeves.Ribbed neckline"
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Lots of stretch"
+    }
+  ],
+  "kids": [
+    {
+      "id":1,
+      "title":"Kid 2-Pack Heart Nightgowns",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5f225163/productimages/3O575010.jpg?sw=1150",
+      "color":"Pink/Red",
+      "price":17.00,
+      "price_2":34.00,
+      "description":"Two nightgowns in one pack! Complete with a cute print and short sleeves.",
+      "features1":"2-pack",
+      "features2":"Cool & comfortable",
+      "features3":"Back bow design"
+    },
+    {
+      "id":2,
+      "title":"Kid St. Patrick's Day Jersey Tee",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw889847aa/productimages/3O597410.jpg?sw=1150",
+      "color":"Heather",
+      "price":9.00,
+      "price_2":17.00,
+      "description":"Perfect for your Sham-Rocker, this tee is perfect for your lucky one.",
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Back bow design"
+    },
+    {
+      "id":3,
+      "title":"Kid 2-Piece St. Patrick's Day 100% Snug Fit Cotton PJs",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwd6d83881/productimages/3O704210.jpg?sw=1150",
+      "color":"Green",
+      "price":15.00,
+      "price_2":30.00,
+      "description":"Crafted in soft cotton, this PJ set has your little one ready for bed in no time. Carter's cotton PJs are not flame resistant. But don't worry! They're designed with a snug and stretchy fit for safety and comfort.",
+      "features1":"2-piece set",
+      "features2":"Long sleeves",
+      "features3":"Ribbed cuffs & neckline"
+    },
+    {
+      "id":4,
+      "title":"Kid 2-Piece Easter Bunny 100% Snug Fit Cotton PJs",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw4a16446e/productimages/3P213210.jpg?sw=1150",
+      "color":"Grey",
+      "price":20.00,
+      "price_2":40.00,
+      "description":"Perfect for your festive little bunny, this matching PJ set makes bedtime easy! Carter's cotton PJs are not flame resistant. But don't worry! They're designed with a snug and stretchy fit for safety and comfort.",
+      "features1":"2-piece set",
+      "features2":"Long sleeves",
+      "features3":"Ribbed cuffs & neckline"
+    },
+    {
+      "id":5,
+      "title":"Kid Tie-Dye Active Hoodie",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw513b4b0a/productimages/3O944910.jpg?sw=1150",
+      "color":"Multi",
+      "price":17.00,
+      "price_2":35.00,
+      "description":"Crafted in soft cotton French terry with a cool print, this hoodie is perfect for your girl.",
+      "features1":"Pullover design",
+      "features2":"Hooded",
+      "features3":"Button-front design"
+    },
+    {
+      "id":6,
+      "title":"Kid Floral Leggings",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw88d813b3/productimages/3O944810.jpg?sw=1150",
+      "color":"Multi",
+      "price":9.00,
+      "price_2":20.00,
+      "description":"Designed with lots of stretch and an easy on waistband, these cool leggings are perfect for your active girl.",
+      "features1":"Covered elastic waistband for a comfy fit",
+      "features2":"Lots of stretch",
+      "features3":"Ribbed cuffs & neckline"
+    },
+    {
+      "id":7,
+      "title":"Kid Easter Dinosaur Jersey Tee",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw985b71aa/productimages/3P751917.jpg?sw=1150",
+      "color":"Green",
+      "price":7.00,
+      "price_2":14.00,
+      "description":"Crafted in lightweight jersey with a festive print, this tee is perfect for him.",
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Built-in footies with elasticized backs"
+    },
+    {
+      "id":8,
+      "title":"Kid Easter Dinosaur Snow Yarn Tee",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw82050fcc/productimages/3P015610.jpg?sw=1150",
+      "color":"Navy",
+      "price":12.00,
+      "price_2":21.00,
+      "description":"Perfect for Easter, this tee was made for your festive little one.",
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Built-in footies, no grippers"
+    },
+    {
+      "id":9,
+      "title":"Kid Gamer Jersey Tee",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw1313d411/productimages/3O879510.jpg?sw=1150",
+      "color":"Blue",
+      "price":11.00,
+      "price_2":24.00,
+      "description":"Crafted in lightweight jersey with gamer graphics, this cool tee is perfect for him.",
+      "features1":"Long sleeves",
+      "features2":"Ribbed neckline and cuffs",
+      "features3":"Ribbed cuffs & neckline"
+    },
+    {
+      "id":10,
+      "title":"Kid Floral Active Hoodie",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw60e955e8/productimages/3O945010.jpg?sw=1150",
+      "color":"Cream",
+      "price":17.00,
+      "price_2":30.00,
+      "description":"Crafted in soft cotton French terry with a cool print and sleeve slogan, this hoodie is perfect for your girl.",
+      "features1":"Pullover design",
+      "features2":"Hooded",
+      "features3":"Ribbed neckline"
+    },
+    {
+      "id":11,
+      "title":"Kid Pull-On Active Pants",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw21a996f4/productimages/3O880110.jpg?sw=1150",
+      "color":"Navy",
+      "price":12.00,
+      "price_2":30.00,
+      "description":"Crafted in loose fitted polyester with a functional drawstring and pockets, these easy on pants are perfect for your active one.",
+      "features1":"Covered elastic waistband for a comfy fit",
+      "features2":"Functional drawstring",
+      "features3":"Built-in footies with elasticized backs"
+    },
+    {
+      "id":12,
+      "title":"Kid Active Poly Pullover",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw75317be8/productimages/3O879310.jpg?sw=1150",
+      "color":"Grey/Navy",
+      "price":16.00,
+      "price_2":38.00,
+      "description":"Designed with an easy pullover design with a quarter zip, this piece is perfect for your active one.",
+      "features1":"Pullover design",
+      "features2":"Quarter-zip design",
+      "features3":"Ribbed trim"
+    },
+    {
+      "id":13,
+      "title":"Kid Pull-On Active Pants",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw62052b16/productimages/3O880010.jpg?sw=1150",
+      "color":"Heather",
+      "price":12.00,
+      "price_2":30.00,
+      "description":"Crafted in loose fitted polyester with a functional drawstring and pockets, these easy on pants are perfect for your active one.",
+      "features":"Covered elastic waistband for a comfy fit|Functional drawstring"
+    },
+    {
+      "id":14,
+      "title":"Kid Hooded Jersey Tee",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwd2dd2cf5/productimages/3O879910.jpg?sw=1150",
+      "color":"Navy",
+      "price":12.00,
+      "price_2":25.00,
+      "description":"Crafted in soft cotton jersey with a cozy hood, this tee is perfect for your sporty boy.",
+      "features1":"Pullover design",
+      "features2":"Hooded",
+      "features3":"ribbed cuffs"
+    },
+    {
+      "id":15,
+      "title":"Kid 2-Piece Bunny Tee & Floral Skort Set",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw62a1ad36/productimages/3O854810.jpg?sw=1150",
+      "color":"Multi",
+      "price":24.00,
+      "price_2":40.00,
+      "description":"Crafted in lightweight jersey, this set is complete with a cute short-sleeve tee and a skort with shorts underneath so she's cartwheel-ready!",
+      "features1":"2-piece set",
+      "features2":"Short sleeves",
+      "features3":"Back bow design"
+    },
+    {
+      "id":16,
+      "title":"Kid Relaxed Fit Classic True Blue Jeans",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw812c4eec/productimages/3N440011.jpg?sw=1150",
+      "color":"Rail Tie True Blue",
+      "price":18.00,
+      "price_2":24.00,
+      "description":"With a relaxed, straight leg and signature rinse, these jeans are cool, cool, cool. Pair with their favorite sweater or top for year round style.",
+      "features1":"Traditional relaxed fit through hip, thigh & leg",
+      "features2":"Snap closure",
+      "features3":"Durable, double-stitched denim"
+    },
+    {
+      "id":17,
+      "title":"Kid Baseball Game Day Hero Jersey Tee",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwd67e58ae/productimages/3P988811.jpg?sw=1150",
+      "color":"Heather",
+      "price":11.00,
+      "price_2":22.00,
+      "description":"Crafted in lightweight jersey with a cool print, this tee is perfect for him.",
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Back button closure"
+    },
+    {
+      "id":18,
+      "title":"Kid Interstellar Space Mission Jersey Tee",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw7eb7e747/productimages/3P988710.jpg?sw=1150",
+      "color":"Black",
+      "price":13.00,
+      "price_2":26.00,
+      "description":"Crafted in lightweight jersey with a cool print, this tee is perfect for him.",
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Durable, double-stitched denim"
+    }
+  ],
+  "popular":[
+    {
+      "id":1,
+      "title":"Kid 2-Piece Bunny Tee & Floral Skort Set",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw62a1ad36/productimages/3O854810.jpg?sw=1150",
+      "color":"Multi",
+      "price":24.00,
+      "price_2":40.00,
+      "description":"Crafted in lightweight jersey, this set is complete with a cute short-sleeve tee and a skort with shorts underneath so she's cartwheel-ready!",
+      "features1":"2-piece set",
+      "features2":"Back bow design",
+      "features3":"Covered elastic waistband for a comfy fit"
+    },
+    {
+      "id":2,
+      "title":"Baby 2-Piece Bodysuit Pant Set",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa7bead58/productimages/1O618110.jpg?sw=1150",
+      "color":"Red/Navy",
+      "price":9.00,
+      "price_2":22.00,
+      "description":"Designed with long cozy sleeves and a cute front pocket, this bodysuit pairs with easy on pants for a ready-to-go outfit.",
+      "features1":"2-piece set and front pocket",
+      "features2":"Long sleeves",
+      "features3":"Ribbed neckline and cuffs"
+    },
+    {
+      "id":3,
+      "title":"Baby Eyelet Ruffle Babydoll Dress",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw1097455a/productimages/1O814010.jpg?sw=1150",
+      "color":"Pink",
+      "price":29.00,
+      "price_2":38.00,
+      "description":"This will be the go-to dress for every special occasion! With a sweet ruffled neckline and eyelet details, it's just the best!",
+      "features1":"Ruffle eyelet trim",
+      "features2":"Hidden back placket",
+      "features3":"Covered elastic waistband for a comfy fit"
+    },
+    {
+      "id":4,
+      "title":"Toddler 2-Piece Floral Top & Striped Legging Set",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw8e2560d7/productimages/2P070710.jpg?sw=1150",
+      "color":"Blue/White",
+      "price":21.00,
+      "price_2":28.00,
+      "description":"Made to match, this set is complete with a floral top to pair with easy-on stretch leggings.",
+      "features1":"2-piece set",
+      "features2":"Back button closure",
+      "features3":"Covered elastic waistband for a comfy fit"
+    },
+    {
+      "id":5,
+      "title":"Baby Characters 2-Way Zip Cotton Sleep & Play",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw1206431b/productimages/1N670610.jpg?sw=1150",
+      "color":"White",
+      "price":9.00,
+      "price_2":18.00,
+      "description":"Designed to be all day comfort from sleeping to playing, this cuddly and super soft 1-piece is perfect for playtime, tummy time or anytime! Plus, with an inverted zipper, baby's arms and tummy stay warm during diaper changes.",
+      "features1":"2-way zip design to keep baby warm and snuggly during diaper changes",
+      "features2":"Safety tab to protect little chins",
+      "features3":"Ribbed cuffs and neckline"
+    },
+    {
+      "id":6,
+      "title":"Toddler Pull-On French Terry Joggers",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw13cde8e0/productimages/2N596810.jpg?sw=1150",
+      "color":"Navy",
+      "price":7.00,
+      "price_2":10.00,
+      "description":"Designed with an easy-on waistband and functional drawstring, these joggers are perfect for everyday.",
+      "features1":"Covered elastic waistband for a comfy fit",
+      "features2":"Functional drawstring",
+      "features3":"Ribbed cuffs"
+    },
+    {
+      "id":7,
+      "title":"Baby 7-Pack Short-Sleeve Bodysuits",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5424d67a/productimages/1L785510.jpg?sw=1150",
+      "color":"Multi",
+      "price":22.80,
+      "price_2":35.00,
+      "description":"Crafted in soft cotton, this 7-pack of bodysuits are perfect for baby!",
+      "features1":"7-pack",
+      "features2":"Short sleeves",
+      "features3":"Overlap shoulders for easy over the head"
+    },
+    {
+      "id":8,
+      "title":"Baby 3-Piece Floral Little Short Set",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwc98afe5a/productimages/1O953010.jpg?sw=1150",
+      "color":"Green",
+      "price":24.00,
+      "price_2":30.00,
+      "description":"Crafted in soft cotton with three cute pieces, this set is complete with a diaper cover short to go with a matching top or an adorable bodysuit for a variety of outfits.",
+      "features1":"3-piece set",
+      "features2":"Short sleeves/sleeveless",
+      "features3":"Strong snaps keep up with wear, wash, repeat"
+    },
+    {
+      "id":9,
+      "title":"Baby Floral 2-Way Zip Up Sleep & Play",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw246d3120/productimages/1N671410.jpg?sw=1150",
+      "color":"Multi",
+      "price":9.00,
+      "price_2":19.00,
+      "description":"Designed to be all day comfort from sleeping to playing, this cuddly and super soft 1-piece is perfect for playtime, tummy time or anytime! Plus, with an inverted zipper, baby's arms and tummy stay warm during diaper changes.",
+      "features1":"2-way zip design to keep baby warm and snuggly during diaper changes",
+      "features2":"Safety tab to protect little chins",
+      "features3":"Ribbed cuffs and neckline"
+    },
+    {
+      "id":10,
+      "title":"Baby Dinosaur 2-Way Zip Cotton Sleep & Play",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw7a59a233/productimages/1N668210.jpg?sw=1150",
+      "color":"Navy",
+      "price":9.00,
+      "price_2":18.00,
+      "description":"Designed to be all day comfort from sleeping to playing, this cuddly and super soft 1-piece is perfect for playtime, tummy time or anytime! Plus, with an inverted zipper, baby's arms and tummy stay warm during diaper changes.",
+      "features1":"2-way zip design to keep baby warm and snuggly during diaper changes",
+      "features2":"Safety tab to protect little chins",
+      "features3":"Ribbed cuffs and neckline"
+    },
+    {
+      "id":11,
+      "title":"Toddler Construction Jersey Tee",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwbf0b1a64/productimages/2P751812.jpg?sw=1150",
+      "color":"Heather",
+      "price":6.00,
+      "price_2":12.00,
+      "description":"Crafted in lightweight jersey with a cool print, this tee is perfect for him.",
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Back button closure"
+    },
+    {
+      "id":12,
+      "title":"Toddler Dinosaur Jersey Tee",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw5363499f/productimages/2P751810.jpg?sw=1150",
+      "color":"Green",
+      "price":6.00,
+      "price_2":12.00,
+      "description":"Crafted in lightweight jersey with a cool print, this tee is perfect for him.",
+      "features1":"Short sleeves",
+      "features2":"Ribbed neckline",
+      "features3":"Durable, double-stitched denim"
+    },
+    {
+      "id":13,
+      "title":"Toddler Pull-On French Terry Joggers",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw0d9d0bb6/productimages/2N596710.jpg?sw=1150",
+      "color":"Heather",
+      "price":7.00,
+      "price_2":14.00,
+      "description":"Crafted in cozy cotton with an easy-on waistband, these joggers make it easy to get baby out the door.",
+      "features1":"Covered elastic waistband for a comfy fit",
+      "features2":"Functional drawstring",
+      "features3":"Functional pockets"
+    },
+    {
+      "id":14,
+      "title":"Baby Floral Print Organic Cotton Gauze Dress",
+      "image":"https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dw42393c1a/productimages/1P047310.jpg?sw=1150",
+      "color":"White",
+      "price":24.95,
+      "price_2":26.00,
+      "description":"Here's another take on our best-selling, most beloved gauze. Featuring a functional placket and buttery soft organic cotton gauze, this dress is a truly transitional piece. Wear alone in warmer temps, or layer over our organic cotton knit sweater for added warmth. Crafted in the purest organic fabrics and sustainable materials, Little Planet is a return to simplicity. Thoughtful essentials and timeless pieces to gift or to hold on to.",
+      "features1":"Baby included diaper cover",
+      "features2":"Elastic back",
+      "features3":"Certified organic by the Global Organic Textile Standard (GOTS)"
     }
   ]
 }
