@@ -9,7 +9,7 @@ function NavBarTop(){
             <Flex h="5vh" bg="blackAlpha.100" textAlign="center">
                 <Box h='8'  >
                     <NavLink to="/" >
-                        <Heading as="h5" size="md" color="blackAlpha.400" _hover={{ color:"blackAlpha.700" }}  pl="2vw" cursor="pointer">Babybags</Heading>
+                        <Heading as="h5" size="md" color="blackAlpha.400" _hover={{ color:"blackAlpha.700" }} pt="3px"  pl="2vw" cursor="pointer">Babybags</Heading>
                     </NavLink>
                 </Box>
                 <Spacer />
