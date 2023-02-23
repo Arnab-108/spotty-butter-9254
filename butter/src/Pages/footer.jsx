@@ -18,6 +18,7 @@ import {
   import InstagramIcon from '@mui/icons-material/Instagram';
   import TwitterIcon from '@mui/icons-material/Twitter';
   import SendOutlinedIcon from '@mui/icons-material/SendOutlined';
+  import {Link as NavLink} from "react-router-dom"
   export default function Footer() {
     return (
       <Box
@@ -29,10 +30,13 @@ import {
             spacing="7vw">
             <Stack spacing={4}>
               <Box>
-              <Heading as="h2" size="xl" color="blackAlpha.400" _hover={{ color:"blackAlpha.700" }}  pl="2vw" cursor="pointer" pos="relative" right="8vw">Babybags</Heading>
+                <NavLink to="#">
+                <Heading as="h2" size="xl" color="blackAlpha.400" _hover={{ color:"blackAlpha.700" }}  pl="2vw" cursor="pointer" pos="relative" right="8vw">Babybags</Heading>
+                </NavLink>
+              
               </Box>
               <Text fontSize={'sm'} pos="relative" right="6vw" >
-                © 2022 Chakra Templates. All rights reserved
+                © 2022 Babybags(For all Kids). All rights reserved
               </Text>
               <Stack direction={'row'} spacing={6} pos="relative" right="4vw">
                   <TwitterIcon />
@@ -41,23 +45,32 @@ import {
               </Stack>
             </Stack>
             <Stack align={'flex-start'}>
-            <Heading as="h6" size="lg" fontWeight="semibold" >Company</Heading>
+            <Heading as="h6" size="md" fontWeight="semibold" >SUPPORT</Heading>
               <Link href={'#'}>About us</Link>
               <Link href={'#'}>Blog</Link>
               <Link href={'#'}>Contact us</Link>
               <Link href={'#'}>Pricing</Link>
               <Link href={'#'}>Testimonials</Link>
+              <Link href={'#'}>Shipping</Link>
+              <Link href={'#'}>Gift Cards</Link>
+              <Link href={'#'}>My Account</Link>
+              <Link href={'#'}>Carter's®</Link>
+              <Link href={'#'}>Our Mobile App</Link>
             </Stack>
             <Stack align={'flex-start'}>
-              <Heading as="h6" size="lg" fontWeight="semibold">Support</Heading>
+              <Heading as="h6" size="md" fontWeight="semibold">ABOUT US</Heading>
               <Link href={'#'}>Help Center</Link>
-              <Link href={'#'}>Terms of Service</Link>
-              <Link href={'#'}>Legal</Link>
-              <Link href={'#'}>Privacy Policy</Link>
-              <Link href={'#'}>Satus</Link>
+              <Link href={'#'}>Carter's Inc.</Link>
+              <Link href={'#'}>Life With Kids</Link>
+              <Link href={'#'}>Baby of the Month</Link>
+              <Link href={'#'}>All Store Locations</Link>
+              <Link href={'#'}>Join Carter's</Link>
+              <Link href={'#'}>Investor Relations</Link>
+              <Link href={'#'}>Careers</Link>
+              <Link href={'#'}>Raise the Future</Link>
             </Stack>
             <Stack align={'flex-start'}>
-              <Heading as="h6" size="lg" fontWeight="semibold">Stay up to date</Heading>
+              <Heading as="h6" size="md" fontWeight="semibold">Stay up to date</Heading>
               <Stack direction={'row'}>
                 <Input
                   placeholder={'Your email address'}
