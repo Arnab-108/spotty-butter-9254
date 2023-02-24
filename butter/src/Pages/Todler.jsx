@@ -3,6 +3,12 @@ import { useReducer, useEffect , useState } from "react"
 import axios from "axios"
 import TodlerCard from "./todlerCard"
 import Footer from "./footer"
+import {
+    Alert,
+    AlertIcon,
+    AlertTitle,
+    AlertDescription,
+  } from '@chakra-ui/react'
 const initState = {
     products:[],
     isLoading:false,
@@ -83,6 +89,15 @@ function Todler(){
             </Box>
         )
     }
+    if(isErr){
+        return(
+            <Alert status='error'>
+                <AlertIcon />
+                <AlertTitle>Your browser is outdated!</AlertTitle>
+                <AlertDescription>Please provide proper link!</AlertDescription>
+            </Alert>
+        )
+    }
     console.log(products)
     return (
         <>
@@ -120,12 +135,12 @@ function Todler(){
                 <Heading as="h3" size="lg" fontWeight="semibold" color="cyan.500" >Shop By Price</Heading>
                 <Grid gridTemplateColumns="repeat(2,1fr)" gap={1} >
                     <GridItem pt="2vh" cursor="pointer" >
-                        <Avatar h="13vh" w="65%" bg="cyan.500" name="High Low" onClick={()=>setOrderBy("acs")}>
+                        <Avatar h="13vh" w="65%" bg="cyan.500" name="High Low" onClick={()=>setOrderBy("desc")}>
                             {/* <Heading as="h5" size="sm" fontWeight="semibold" color="white" >High To Low</Heading> */}
                         </Avatar>
                     </GridItem>
                     <GridItem pt="2vh" cursor="pointer" >
-                        <Avatar h="13vh" w="65%" bg="cyan.500" name="Low High" color="white" onClick={()=>setOrderBy("desc")}>
+                        <Avatar h="13vh" w="65%" bg="cyan.500" name="Low High" color="white" onClick={()=>setOrderBy("acs")}>
                             {/* <Heading as="h5" size="sm" color="white" fontWeight="semibold">High To Low</Heading> */}
                         </Avatar>
                     </GridItem>
