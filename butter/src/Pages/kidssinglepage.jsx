@@ -1,6 +1,7 @@
 import { useState , useEffect } from "react"
 import { useParams } from "react-router-dom";
 import axios from "axios";
+import Footer from "./footer";
 import {
     Box,
     chakra,
@@ -19,7 +20,14 @@ import {
     List,
     ListItem,
     Spacer,
+    Skeleton, SkeletonCircle, SkeletonText
   } from '@chakra-ui/react';
+  import {
+    Alert,
+    AlertIcon,
+    AlertTitle,
+    AlertDescription,
+  } from '@chakra-ui/react'
   import LocalShippingIcon from '@mui/icons-material/LocalShipping';
 //   import { FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
 //   import { MdLocalShipping } from 'react-icons/md';
@@ -45,9 +53,47 @@ import {
             setErr(true)
         })
     }
+    if(loading){
+        return(
+            <Box padding='6' boxShadow='lg' bg='white'>
+                <SkeletonCircle size='10' />
+                <SkeletonText mt='4' noOfLines={4} spacing='4' skeletonHeight='2' />
+            </Box>
+        )
+    }
+    if(err){
+      return(
+        <Alert status='error'>
+            <AlertIcon />
+            <AlertTitle>Your browser is outdated!</AlertTitle>
+            <AlertDescription>Your Chakra experience may be degraded.</AlertDescription>
+         </Alert>
+      )
+    }
+    const handleClick=()=>{
+      axios({
+        method:"post",
+        url:"http://localhost:8080/cart",
+        data:{
+          title:data.title,
+          image:data.image,
+          color:data.color,
+          price:data.price,
+          price_2:data.price_2,
+          description:data.description,
+          features1:data.features1,
+          features2:data.features2,
+          features3:data.features3
+        }
+      }).then((res)=>{
+        alert("Successfully Added!")
+        console.log(res)
+      })
+    }
     console.log(data)
     return (
-      <Container maxW={'7xl'}>
+      <>
+        <Container maxW={'7xl'}>
         <SimpleGrid
           columns={{ base: 1, lg: 2 }}
           spacing={{ base: 8, md: 10 }}
@@ -73,10 +119,10 @@ import {
                         ${data?.price}
                     </Heading>
                     <Text
-                        color={useColorModeValue('gray.900', 'gray.400')}
+                        color='gray.900'
                         fontWeight={300}
                         fontSize={'md'}
-                        as='s'
+                        textDecoration={'line-through'}
                         >
                         ${data?.price_2}
                     </Text>
@@ -92,7 +138,7 @@ import {
                 {data?.title}
               </Text>
               <Text
-                color={useColorModeValue('gray.900', 'gray.400')}
+                color='gray.900'
                 fontWeight={300}
                 fontSize={'sm'}
                 textAlign="left"
@@ -108,7 +154,7 @@ import {
                 ${data?.price_2}
               </Text> */}
               <Text
-                color={useColorModeValue('gray.900', 'gray.400')}
+                color='gray.900'
                 fontWeight={600}
                 fontSize={'lg'}
                 // mt="3vh"
@@ -123,13 +169,13 @@ import {
               direction={'column'}
               divider={
                 <StackDivider
-                  borderColor={useColorModeValue('gray.200', 'gray.600')}
+                  borderColor='gray.200'
                 />
               }
               >
               <VStack spacing={{ base: 4, sm: 6 }} >
                 <Text
-                  color={useColorModeValue('gray.500', 'gray.400')}
+                  color='gray.500'
                   fontSize={'2xl'}
                   fontWeight={'300'}
                 //   mb="2vh"
@@ -141,7 +187,7 @@ import {
               <Box>
                 <Text
                   fontSize={{ base: '16px', lg: '18px' }}
-                  color={useColorModeValue('yellow.500', 'yellow.300')}
+                  color='yellow.500'
                   fontWeight={'500'}
                   textTransform={'uppercase'}
                   mb={'4'}>
@@ -164,7 +210,7 @@ import {
               <Box>
                 <Text
                   fontSize={{ base: '16px', lg: '18px' }}
-                  color={useColorModeValue('yellow.500', 'yellow.300')}
+                  color='yellow.500'
                   fontWeight={'500'}
                   textTransform={'uppercase'}
                   mb={'4'}>
@@ -225,13 +271,15 @@ import {
               mt={8}
               size={'lg'}
               py={'7'}
-              bg={useColorModeValue('gray.900', 'gray.50')}
-              color={useColorModeValue('white', 'gray.900')}
+              bg='gray.900'
+              color='white'
               textTransform={'uppercase'}
               _hover={{
                 transform: 'translateY(2px)',
                 boxShadow: 'lg',
-              }}>
+              }}
+              onClick={handleClick}
+              >
               Add to cart
             </Button>
   
@@ -242,5 +290,9 @@ import {
           </Stack>
         </SimpleGrid>
       </Container>
+
+        <Footer />
+      </>
+      
     );
   }

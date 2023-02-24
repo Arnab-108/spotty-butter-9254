@@ -10,6 +10,7 @@ import Signin from "../Pages/signin";
 import BabySinglePage from "../Pages/babysinglepage";
 import TodlerSinglePage from "../Pages/todlersinglepage";
 import KidsSinglePage from "../Pages/kidssinglepage";
+import Payment from "../Pages/payment";
 function AllRoutes(){
     return (
         <Routes>
@@ -24,6 +25,7 @@ function AllRoutes(){
             <Route path="/hilaryduff" element={<HilaryDuffCarter />} />
             <Route path="/cart" element={<Cart />} />
             <Route path="/signin" element={<Signin />} />
+            <Route path="/payment" element={<Payment />} />
         </Routes>
     )
 }
