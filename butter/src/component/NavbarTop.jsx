@@ -3,7 +3,10 @@ import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined
 import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
 import WidgetsOutlinedIcon from '@mui/icons-material/WidgetsOutlined';
 import { Link as NavLink } from "react-router-dom";
+import { authProvider } from "../Authentication/authcontextprovider";
+import { useContext } from "react";
 function NavBarTop(){
+    const {Logout , isAuth} = useContext(authProvider)
     return (
         <>
             <Flex h="5vh" bg="blackAlpha.100" textAlign="center">
@@ -19,21 +22,30 @@ function NavBarTop(){
                 <Spacer />
                 <Box  h='8' mr="2vw" >
                     <HStack spacing="15px" pt="8px"  >
-                    <NavLink to="/signin" >
-                        <Flex gap='1'  _hover={{ fontWeight: 'semibold' }}>
+                        {
+                            isAuth===false ? 
+                            <NavLink to="/signin" >
+
+                                <Flex gap='1'  _hover={{ fontWeight: 'semibold' }}>
+                                        <AccountCircleOutlinedIcon fontSize="small" />
+                                        <Text fontSize='xs' color="blackAlpha.700" >Sign in</Text>
+                                </Flex>
+                            </NavLink> :
+                            <Flex gap='1'  _hover={{ fontWeight: 'semibold' }}>
                                 <AccountCircleOutlinedIcon fontSize="small" />
-                                <Text fontSize='xs' color="blackAlpha.700" >Sign in</Text>
-                        </Flex>
-                    </NavLink>
-                        <Flex gap='1' >
+                                <Text fontSize='xs' color="blackAlpha.700" cursor="pointer" onClick={()=>Logout()} >Logout</Text>
+                            </Flex>
+                        }
+                    
+                        <Flex gap='1'  _hover={{ fontWeight: 'semibold' }} >
                             <WidgetsOutlinedIcon fontSize="small"/>
-                            <Text fontSize='xs' color="blackAlpha.700"  >Order</Text>
+                            <Text fontSize='xs' color="blackAlpha.700" cursor="pointer" >Order</Text>
                         </Flex>
                         <NavLink to="/cart" >
                             <Flex gap='1' _hover={{ fontWeight: 'semibold' }}>
                                 
                                     <ShoppingCartOutlinedIcon fontSize="small" />
-                                    <Text fontSize='xs' color="blackAlpha.700"  >Cart</Text>
+                                    <Text fontSize='xs' color="blackAlpha.700" >Cart</Text>
                             </Flex>
                         </NavLink>
                     </HStack>
