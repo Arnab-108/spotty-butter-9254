@@ -856,6 +856,30 @@
       "features2": "Cuddle tab to protect little chins",
       "features3": "Built-in footies with elasticized backs",
       "id": 6
+    },
+    {
+      "title": "Toddler Construction Jersey Tee",
+      "image": "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwbf0b1a64/productimages/2P751812.jpg?sw=1150",
+      "color": "Heather",
+      "price": 6,
+      "price_2": 12,
+      "description": "Crafted in lightweight jersey with a cool print, this tee is perfect for him.",
+      "features1": "Short sleeves",
+      "features2": "Ribbed neckline",
+      "features3": "Back button closure",
+      "id": 7
+    },
+    {
+      "title": "Baby 2-Piece Bodysuit Pant Set",
+      "image": "https://api.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwa7bead58/productimages/1O618110.jpg?sw=1150",
+      "color": "Red/Navy",
+      "price": 9,
+      "price_2": 22,
+      "description": "Designed with long cozy sleeves and a cute front pocket, this bodysuit pairs with easy on pants for a ready-to-go outfit.",
+      "features1": "2-piece set and front pocket",
+      "features2": "Long sleeves",
+      "features3": "Ribbed neckline and cuffs",
+      "id": 8
     }
   ]
 }

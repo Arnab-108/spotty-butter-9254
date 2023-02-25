@@ -7,6 +7,10 @@ import { authProvider } from "../Authentication/authcontextprovider";
 import { useContext } from "react";
 function NavBarTop(){
     const {Logout , isAuth} = useContext(authProvider)
+    const handleClick = ()=>{
+        alert("Logging Out!")
+        Logout()
+    }
     return (
         <>
             <Flex h="5vh" bg="blackAlpha.100" textAlign="center">
@@ -33,7 +37,7 @@ function NavBarTop(){
                             </NavLink> :
                             <Flex gap='1'  _hover={{ fontWeight: 'semibold' }}>
                                 <AccountCircleOutlinedIcon fontSize="small" />
-                                <Text fontSize='xs' color="blackAlpha.700" cursor="pointer" onClick={()=>Logout()} >Logout</Text>
+                                <Text fontSize='xs' color="blackAlpha.700" cursor="pointer" onClick={handleClick} >Logout</Text>
                             </Flex>
                         }
                     
