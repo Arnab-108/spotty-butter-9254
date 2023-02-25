@@ -11,21 +11,42 @@ import BabySinglePage from "../Pages/babysinglepage";
 import TodlerSinglePage from "../Pages/todlersinglepage";
 import KidsSinglePage from "../Pages/kidssinglepage";
 import Payment from "../Pages/payment";
+import PrivateRoute from "../Authentication/privateRoute";
 function AllRoutes(){
     return (
         <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/baby" element={<Baby />} />
-            <Route path="/baby/:id" element={<BabySinglePage />} />
+            <Route path="/baby/:id" element={
+                <PrivateRoute>
+                    <BabySinglePage /> 
+                </PrivateRoute>
+            }/>
             <Route path="/kids" element={<Kids />} />
-            <Route path="/kids/:id" element={<KidsSinglePage />} />
+            <Route path="/kids/:id" element={
+                <PrivateRoute>
+                    <KidsSinglePage />
+                </PrivateRoute>
+            } />
             <Route path="/newpopular" element={<NewPopular />}/>
             <Route path="/todler" element={<Todler />} />
-            <Route path="/todler/:id" element={<TodlerSinglePage />} />
+            <Route path="/todler/:id" element={
+                <PrivateRoute>
+                    <TodlerSinglePage />
+                </PrivateRoute>
+            } />
             <Route path="/hilaryduff" element={<HilaryDuffCarter />} />
-            <Route path="/cart" element={<Cart />} />
+            <Route path="/cart" element={
+                <PrivateRoute>
+                    <Cart />
+                </PrivateRoute>
+            } />
             <Route path="/signin" element={<Signin />} />
-            <Route path="/payment" element={<Payment />} />
+            <Route path="/payment" element={
+                <PrivateRoute>
+                    <Payment />
+                </PrivateRoute>
+            } />
         </Routes>
     )
 }
