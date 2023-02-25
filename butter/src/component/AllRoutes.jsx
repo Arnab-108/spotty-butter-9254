@@ -12,6 +12,7 @@ import TodlerSinglePage from "../Pages/todlersinglepage";
 import KidsSinglePage from "../Pages/kidssinglepage";
 import Payment from "../Pages/payment";
 import PrivateRoute from "../Authentication/privateRoute";
+import NewSinglePage from "../Pages/popularSinglePage";
 function AllRoutes(){
     return (
         <Routes>
@@ -29,6 +30,11 @@ function AllRoutes(){
                 </PrivateRoute>
             } />
             <Route path="/newpopular" element={<NewPopular />}/>
+            <Route path="/newpopular/:id" element={
+                <PrivateRoute>
+                    <NewSinglePage />
+                </PrivateRoute>
+            } />
             <Route path="/todler" element={<Todler />} />
             <Route path="/todler/:id" element={
                 <PrivateRoute>
@@ -47,6 +53,7 @@ function AllRoutes(){
                     <Payment />
                 </PrivateRoute>
             } />
+            
         </Routes>
     )
 }
