@@ -63,5 +63,9 @@ To install and run this project on your local machine, follow these steps:
 ![Screenshot (1023)](https://user-images.githubusercontent.com/112754648/231088142-7ad8ceed-1054-4e4a-92c7-b2f553873c59.png)
 ![Screenshot (1024)](https://user-images.githubusercontent.com/112754648/231088162-c4037ddd-ca8f-434e-a479-38343cb0c1cd.png)
 
+## Cart Page:
+![Screenshot (1025)](https://user-images.githubusercontent.com/112754648/231089207-3ce850db-b760-44e5-bd96-7d210d3874f9.png)
+![Screenshot (1026)](https://user-images.githubusercontent.com/112754648/231089227-a0db0fdc-c471-4e5a-a396-cf3000f14f44.png)
+![Screenshot (1027)](https://user-images.githubusercontent.com/112754648/231089249-ba33b859-492c-486d-bd65-68be9266bb16.png)
 
 
