@@ -1,4 +1,4 @@
 ### `Construct Week Project for RCT101-Clone of Carter's.com`
-https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.2a0/on/demandware.static/Sites-Carters-Site/-/default/dw279bad54/images/logo-                   carters.svg?yocs=4G_
+          ![logo-carters](https://user-images.githubusercontent.com/112754648/231072981-a5722cbd-4cab-4026-967c-8e52e9cfbb20.svg)
 
 
