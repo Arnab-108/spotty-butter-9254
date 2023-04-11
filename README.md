@@ -33,7 +33,6 @@ To install and run this project on your local machine, follow these steps:
 ![Screenshot (1001)](https://user-images.githubusercontent.com/112754648/231081044-f9c98bfe-9556-4a02-85bc-9339ffe0b20a.png)
 ![Screenshot (1002)](https://user-images.githubusercontent.com/112754648/231081055-2f2b4afc-6285-45ec-a072-521ff4f23e59.png)
 ![Screenshot (1003)](https://user-images.githubusercontent.com/112754648/231081091-45b938b3-1509-463e-88d1-33a70c8303ff.png)
-![Screenshot (1004)](https://user-images.githubusercontent.com/112754648/231081117-c68ac0ef-4d6b-450d-9a68-aadf5467c017.png)
 
 ## Product Pages
 ### Baby Clothes
