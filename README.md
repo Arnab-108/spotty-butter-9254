@@ -1,10 +1,5 @@
-### `npm start`
+### `Construct Week Project for RCT101-Clone of Carter's.com`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+https://cdn-fsly.yottaa.net/578855e22bb0ac10350002d6/www.carters.com/v~4b.2a0/on/demandware.static/Sites-Carters-Site/-/default/dw279bad54/images/logo-carters.svg?yocs=4G_
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npx json-server --watch db.json --port 8080`
-Gets all the data from the database. If not ran then the products won't show.Make sure to run the above statement in your VS Code terminal after starting the application..
