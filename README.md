@@ -43,7 +43,7 @@ To install and run this project on your local machine, follow these steps:
 ![Screenshot (1008)](https://user-images.githubusercontent.com/112754648/231083083-f70c4aa1-4594-4480-bc5f-118fef0dd0ee.png)
 ![Screenshot (1009)](https://user-images.githubusercontent.com/112754648/231083110-1f868b4f-6df5-42c5-b9c1-0305b8c796f8.png)
 ![Screenshot (1010)](https://user-images.githubusercontent.com/112754648/231083128-08ed1b06-0815-445e-a26c-883d9536d00d.png)
-![Screenshot (1011)](https://user-images.githubusercontent.com/112754648/231083158-b4352fa9-824e-4615-911d-897a19959e65.png)
+
 
 
 
