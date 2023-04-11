@@ -10,6 +10,7 @@ Carter's, Inc. is a major American designer and marketer of children's apparel. 
 
 # Deployed link:- https://babybags.netlify.app/
 # Technologies Used
+BabyBags Shop has been built using the following technologies:
 - React: React is a declarative, efficient, and flexible JavaScript library for building user interfaces or UI components.
 - React Router: A popular routing library for React.
 - Chakra-UI: A popular UI component library for React.
