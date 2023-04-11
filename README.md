@@ -58,7 +58,7 @@ To install and run this project on your local machine, follow these steps:
 ![Screenshot (1020)](https://user-images.githubusercontent.com/112754648/231087513-9e1c6288-f605-44b1-9174-cdd96bcfdb6f.png)
 ![Screenshot (1021)](https://user-images.githubusercontent.com/112754648/231087538-e4adc703-1cdd-44b0-b2dc-9764b2c03026.png)
 
-## Single Product Page:
+## Single Product Page :camera_flash::
 ![Screenshot (1022)](https://user-images.githubusercontent.com/112754648/231088127-21233cf3-41d4-44d0-b211-f64391f00042.png)
 ![Screenshot (1023)](https://user-images.githubusercontent.com/112754648/231088142-7ad8ceed-1054-4e4a-92c7-b2f553873c59.png)
 ![Screenshot (1024)](https://user-images.githubusercontent.com/112754648/231088162-c4037ddd-ca8f-434e-a479-38343cb0c1cd.png)
