@@ -26,12 +26,24 @@ To install and run this project on your local machine, follow these steps:
 
 ## Screenshots
 
-### HomePage
-![Screenshot (998)](https://user-images.githubusercontent.com/112754648/231079569-1a95c3fb-f917-44c4-a093-6f8a79c75b0e.png)
-![Screenshot (999)](https://user-images.githubusercontent.com/112754648/231079612-4de49f86-0f14-4090-9876-fae333fb6f48.png)
-![Screenshot (1000)](https://user-images.githubusercontent.com/112754648/231079639-12ebd93e-6cfb-4840-a47f-813124f32b29.png)
-![Screenshot (1001)](https://user-images.githubusercontent.com/112754648/231079660-d1b87709-335d-4b14-88ac-eded9cffe208.png)
-![Screenshot (1002)](https://user-images.githubusercontent.com/112754648/231079693-0c1cbebc-3af5-4365-ab10-fe5488b90aa9.png)
-![Screenshot (1003)](https://user-images.githubusercontent.com/112754648/231079723-057f555b-c44c-4577-be72-0e5e2a9258ff.png)
+## HomePage
+![Screenshot (998)](https://user-images.githubusercontent.com/112754648/231080881-bfa6be51-cad1-4f0a-b9e9-443752c5a7db.png)
+![Screenshot (999)](https://user-images.githubusercontent.com/112754648/231080910-ac52dc92-4390-42ae-9777-50c4172b2e18.png)
+![Screenshot (1000)](https://user-images.githubusercontent.com/112754648/231080927-36939d74-988c-4875-8ee9-d2f34d24af31.png)
+![Screenshot (1001)](https://user-images.githubusercontent.com/112754648/231081044-f9c98bfe-9556-4a02-85bc-9339ffe0b20a.png)
+![Screenshot (1002)](https://user-images.githubusercontent.com/112754648/231081055-2f2b4afc-6285-45ec-a072-521ff4f23e59.png)
+![Screenshot (1003)](https://user-images.githubusercontent.com/112754648/231081091-45b938b3-1509-463e-88d1-33a70c8303ff.png)
+![Screenshot (1004)](https://user-images.githubusercontent.com/112754648/231081117-c68ac0ef-4d6b-450d-9a68-aadf5467c017.png)
+
+## Product Pages
+### Baby Clothes
+![Screenshot (1005)](https://user-images.githubusercontent.com/112754648/231082983-8a5ec546-2730-46ea-ba84-f1af90544c2e.png)
+![Screenshot (1006)](https://user-images.githubusercontent.com/112754648/231083032-44279f02-7887-47e6-9d84-1b8e133e2901.png)
+![Screenshot (1007)](https://user-images.githubusercontent.com/112754648/231083050-71458be6-cc26-47d4-a671-d19cdebdcbda.png)
+![Screenshot (1008)](https://user-images.githubusercontent.com/112754648/231083083-f70c4aa1-4594-4480-bc5f-118fef0dd0ee.png)
+![Screenshot (1009)](https://user-images.githubusercontent.com/112754648/231083110-1f868b4f-6df5-42c5-b9c1-0305b8c796f8.png)
+![Screenshot (1010)](https://user-images.githubusercontent.com/112754648/231083128-08ed1b06-0815-445e-a26c-883d9536d00d.png)
+![Screenshot (1011)](https://user-images.githubusercontent.com/112754648/231083158-b4352fa9-824e-4615-911d-897a19959e65.png)
+
 
 
