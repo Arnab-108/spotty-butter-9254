@@ -16,6 +16,7 @@ BabyBags Shop has been built using the following technologies:
 - Chakra-UI: A popular UI component library for React.
 - Render.com: A popular backend-as-a-service platform that provides authentication, database, and hosting services.
 - Netlify: A popular platform for client side (front-end) deployment.
+- Reqres Api: An authentication tool. In order to Login-> Email:eve.holt@reqres.in , Password->cityslicka
 ### Installation
 To install and run this project on your local machine, follow these steps:
 - Clone the repository using git clone https://github.com/Arnab-108/spotty-butter-9254
