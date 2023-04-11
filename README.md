@@ -8,4 +8,4 @@ Carter's, Inc. is a major American designer and marketer of children's apparel. 
 # Unique Project Name & Logo:- BabyBags 
 ![babybags 10b0f94e16feb9ea9813](https://user-images.githubusercontent.com/112754648/231075913-c519bd72-b8f4-4f2b-aadc-e31c5c665e8e.png)
 
-# Deployed link:- (https://babybags.netlify.app/)
+# Deployed link:- https://babybags.netlify.app/
