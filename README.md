@@ -25,9 +25,9 @@ To install and run this project on your local machine, follow these steps:
 - Start the development server using npm start
 - This will start the development server at http://localhost:3000.
 
-## Screenshots
+## Screenshots :camera_flash:
 
-## HomePage:
+## HomePage :camera_flash::
 ![Screenshot (998)](https://user-images.githubusercontent.com/112754648/231080881-bfa6be51-cad1-4f0a-b9e9-443752c5a7db.png)
 ![Screenshot (999)](https://user-images.githubusercontent.com/112754648/231080910-ac52dc92-4390-42ae-9777-50c4172b2e18.png)
 ![Screenshot (1000)](https://user-images.githubusercontent.com/112754648/231080927-36939d74-988c-4875-8ee9-d2f34d24af31.png)
@@ -35,7 +35,7 @@ To install and run this project on your local machine, follow these steps:
 ![Screenshot (1002)](https://user-images.githubusercontent.com/112754648/231081055-2f2b4afc-6285-45ec-a072-521ff4f23e59.png)
 ![Screenshot (1003)](https://user-images.githubusercontent.com/112754648/231081091-45b938b3-1509-463e-88d1-33a70c8303ff.png)
 
-## Product Pages:
+## Product Pages :camera_flash::
 ### Baby Clothes
 ![Screenshot (1005)](https://user-images.githubusercontent.com/112754648/231082983-8a5ec546-2730-46ea-ba84-f1af90544c2e.png)
 ![Screenshot (1006)](https://user-images.githubusercontent.com/112754648/231083032-44279f02-7887-47e6-9d84-1b8e133e2901.png)
@@ -63,16 +63,16 @@ To install and run this project on your local machine, follow these steps:
 ![Screenshot (1023)](https://user-images.githubusercontent.com/112754648/231088142-7ad8ceed-1054-4e4a-92c7-b2f553873c59.png)
 ![Screenshot (1024)](https://user-images.githubusercontent.com/112754648/231088162-c4037ddd-ca8f-434e-a479-38343cb0c1cd.png)
 
-## Cart Page:
+## Cart Page :camera_flash::
 ![Screenshot (1025)](https://user-images.githubusercontent.com/112754648/231089207-3ce850db-b760-44e5-bd96-7d210d3874f9.png)
 ![Screenshot (1026)](https://user-images.githubusercontent.com/112754648/231089227-a0db0fdc-c471-4e5a-a396-cf3000f14f44.png)
 ![Screenshot (1027)](https://user-images.githubusercontent.com/112754648/231089249-ba33b859-492c-486d-bd65-68be9266bb16.png)
 
-## Payment:
+## Payment :camera_flash::
 ![Screenshot (1031)](https://user-images.githubusercontent.com/112754648/231090170-0216821c-9bab-427d-805f-041d47763681.png)
 ![Screenshot (1030)](https://user-images.githubusercontent.com/112754648/231090209-8a3ec2f3-26d2-4af2-9084-7255cbd5441c.png)
 
-## Login page:
+## Login page :camera_flash::
 ![Screenshot (1032)](https://user-images.githubusercontent.com/112754648/231090632-18dadb8a-a511-41e6-97f0-5323aea27f4f.png)
 
 # :sparkles:Thank You:sparkles:
