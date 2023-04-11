@@ -25,7 +25,7 @@ To install and run this project on your local machine, follow these steps:
 - Start the development server using npm start
 - This will start the development server at http://localhost:3000.
 
-## Screenshots :camera_flash:
+## Screenshots
 
 ## HomePage :camera_flash::
 ![Screenshot (998)](https://user-images.githubusercontent.com/112754648/231080881-bfa6be51-cad1-4f0a-b9e9-443752c5a7db.png)
