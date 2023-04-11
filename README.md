@@ -44,6 +44,12 @@ To install and run this project on your local machine, follow these steps:
 ![Screenshot (1009)](https://user-images.githubusercontent.com/112754648/231083110-1f868b4f-6df5-42c5-b9c1-0305b8c796f8.png)
 ![Screenshot (1010)](https://user-images.githubusercontent.com/112754648/231083128-08ed1b06-0815-445e-a26c-883d9536d00d.png)
 
+### Toddler Clothes
+![Screenshot (1012)](https://user-images.githubusercontent.com/112754648/231085820-b87da44d-8684-4097-953b-87b9c41e4648.png)
+![Screenshot (1013)](https://user-images.githubusercontent.com/112754648/231085855-75d7662e-8e10-4020-a427-e08391b57be6.png)
+![Screenshot (1014)](https://user-images.githubusercontent.com/112754648/231085878-662fe937-3f11-4371-b1ad-e1fe93044545.png)
+![Screenshot (1015)](https://user-images.githubusercontent.com/112754648/231085940-ed41f509-1fd6-4fd6-9f9f-4400a0b8ae5b.png)
+![Screenshot (1016)](https://user-images.githubusercontent.com/112754648/231085974-fec36f64-2570-4d8f-904c-e57548b0723e.png)
 
 
 
