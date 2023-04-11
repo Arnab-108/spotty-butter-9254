@@ -5,5 +5,6 @@
 # About The Project:-
 Carter's, Inc. is a major American designer and marketer of children's apparel. It was founded in 1865 by William Carter.Carter's sells its products through its own Carter's and OshKosh B'gosh retail stores, its website, and in other retail outlets such as department stores. As of 2019, it was reported that Carter's accounted for around one-quarter of all sales both for the children's sleepwear market, and for clothes for the newborn to two-year-old age group.
 
-# Unique Project Name & Logo:- BabyBags ![babybags](https://user-images.githubusercontent.com/112754648/231074964-ca478970-9b5c-410d-98e3-7aa959d25118.png)
+# Unique Project Name & Logo:- 
+BabyBags ![babybags](https://user-images.githubusercontent.com/112754648/231074964-ca478970-9b5c-410d-98e3-7aa959d25118.png)
 
