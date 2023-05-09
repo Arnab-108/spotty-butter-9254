@@ -74,5 +74,6 @@ To install and run this project on your local machine, follow these steps:
 
 ## Login page :camera_flash::
 ![Screenshot (1032)](https://user-images.githubusercontent.com/112754648/231090632-18dadb8a-a511-41e6-97f0-5323aea27f4f.png)
+![Screenshot (1006)](https://github.com/Arnab-108/spotty-butter-9254/assets/112754648/6d490598-6195-4b85-b955-e9fab9969f40)
 
 # :sparkles:Thank You:sparkles:
